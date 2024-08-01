@@ -8,7 +8,8 @@ body{
 h1
 {
 	text-align:center;
-	margin-bottom:20px;
+	margin-bottom:1px;
+	margin-top:1px;
 }
 th,td{
 	border:1px solid black;
@@ -26,4 +27,18 @@ thead
 }
 th{
 	font-weight:bold;
+	background-color:#b94646;
+	
+}
+.a
+{
+	background-color:	#936c6c;
+}
+.b
+{
+	background-color:aliceblue;
+}
+.c
+{
+	background-color:	#686868;
 }
