@@ -38,8 +38,8 @@ tbody,tr.a
 }
 tbody,tr.b
 {
-	background-color: pink;
-	opacity:0.2;
+	background-color: #FFFFFF;
+	opacity:0.8;
 	font-family:Arial;
 }
 tbody,tr,td.c
