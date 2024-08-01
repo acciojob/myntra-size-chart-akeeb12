@@ -1,15 +1,15 @@
 
 /* Your CSS Code here. */
-body{
+table{
 	border:2px solid black;
 	margin:20px;
-	font-style:serif;
 }
-h1
+.h1
 {
 	text-align:center;
 	margin-bottom:1px;
 	margin-top:1px;
+	font-family:
 }
 th,td{
 	border:1px solid black;
@@ -28,17 +28,34 @@ thead
 th{
 	font-weight:bold;
 	background-color:#b94646;
+	text-align:left;
+	padding-left:03px;
 	
 }
-.a
+tbody,tr.a
 {
 	background-color:	#936c6c;
 }
-.b
+tbody,tr.b
 {
-	background-color:aliceblue;
+	background-color: pink;
+	opacity:0.2;
+	font-family:Arial;
 }
-.c
+tbody,tr,td.c
 {
-	background-color:	#686868;
+	background-color: Lightgrey;
+	opacity:0.7;
+	font-family:Arial;
 }
+
+tbody,td{
+	text-align:left;
+	padding-left:02px;
+}
+tbody,tr,td.a
+{
+	text-align:right;
+	padding-right:02px;
+}
+
